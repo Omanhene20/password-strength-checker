@@ -1,31 +1,28 @@
-Stand-up Meeting Notes
-Stand-up 1 (Day 1)
-What I did yesterday:
+# Daily Stand-Up Notes — Sprint 2
 
-Set up the GitHub repository and initial project structure.
-What I'll do today:
+**Stand-up 1 (Day 1)**  
+Date: 2025-12-02  
+Attendees: Kwabena Adjei Omanhene-Gyimah (solo for Sprint 2)  
+Yesterday: Created repo skeleton and initial README.  
+Today: Start implementing password_strength() and outline tests.  
+Blockers: None.
 
-Begin coding the password_strength function.
-Blockers:
+**Stand-up 2 (Day 2)**  
+Date: 2025-12-03  
+Attendees: Kwabena  
+Yesterday: Implemented initial failing tests for TDD and created branch `feature/password-feedback`.  
+Today: Implement password_strength() to satisfy tests.  
+Blockers: Clarify feedback messaging for short/unicode inputs.
 
-None.
-Stand-up 2 (Day 2)
-What I did yesterday:
+**Stand-up 3 (Day 3)**  
+Date: 2025-12-04  
+Attendees: Kwabena  
+Yesterday: Implemented password_strength() and created more unit tests for edge cases.  
+Today: Refactor helper functions and improve feedback messages.  
+Blockers: None.
 
-Implemented the core logic for password_strength.
-What I'll do today:
-
-Write unit tests for the password_strength function.
-Blockers:
-
-Need to figure out edge cases for symbol handling.
-Stand-up 3 (Day 3)
-What I did yesterday:
-
-Completed unit tests and updated documentation.
-What I'll do today:
-
-Prepare the sprint review and retrospective.
-Blockers:
-
-None.
+**Stand-up 4 (Day 4)**  
+Date: 2025-12-05  
+Attendees: Kwabena  
+Yesterday: Finalized tests and docs, prepared PR, and added sprint review/retro docs.  
+Today: Submit PR and merge to main; compile deliverables.
